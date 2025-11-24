@@ -1,0 +1,5 @@
+{
+  "name": "WordCross AI",
+  "description": "A mobile-first vocabulary learning app that turns your study list into personalized crossword puzzles using Gemini AI.",
+  "requestFramePermissions": []
+}
